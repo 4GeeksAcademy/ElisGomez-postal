@@ -1,0 +1,31 @@
+.container {
+	display: flex;
+	justify-content: center;
+	padding-top: 20px;
+}
+.parrafo {
+	float: left;
+	margin-right: 10px;
+}
+.bild {
+	float: right;
+}
+img {
+	width: 60px;
+	height: 60px;
+	float: right;
+	padding-top: 12px;
+	padding-bottom: 10px;
+}
+input {
+	display: block;
+	border-top-width: 0;
+	border-left-width: 0;
+	border-right-width: 0;
+}
+.boton {
+	text-align: center;
+}
+button {
+	background-color: grey;
+}
